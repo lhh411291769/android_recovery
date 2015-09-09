@@ -1,2 +1,2 @@
 # android_recovery record
-android 升级包差分升级中updater来自input_zip
+android 升级包差分升级中updater来自target_zip
